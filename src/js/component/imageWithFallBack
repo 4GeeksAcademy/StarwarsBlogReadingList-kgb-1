@@ -1,0 +1,19 @@
+import React, { useState } from 'react';
+// export const ImageWithFallback = ({ src, fallbackSrc, alt, width, height }) => {
+export const ImageWithFallback = () => {
+  // const [imgSrc, setImgSrc] = useState(src);
+  // const handleError = () => {
+  //   setImgSrc(fallbackSrc);
+  // };
+  return (<div>
+    {/* // <img
+    //   src={imgSrc}
+    //   alt={alt}
+    //   width={width}
+    //   height={height}
+    //   onError={handleError}
+    //   style={{ width: `${width}px`, height: `${height}px` }}
+    // /> */}
+  </div>
+  );
+};
